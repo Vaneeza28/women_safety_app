@@ -123,7 +123,7 @@ class _OnboardingViewState extends State<OnboardingView> {
                     children: [
                       Center(
                         child: Image.asset(
-                          'assets/images/onboarding4 (1).png',
+                          'assets/images/onboarding4 (1).jpeg',
                           height: 300,
                           width: 300,
                         ),
